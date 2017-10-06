@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KmBisMeilen</string>
+    <string name="missatge1">Kilometer</string>
+    <string name="missatge2">Meilen</string>
+</resources>
